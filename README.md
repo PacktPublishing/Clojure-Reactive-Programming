@@ -4,16 +4,16 @@ Clojure-Reactive-Programming-Code-Files
 This repository contains the code files of [Clojure Reactive Programming] (https://www.packtpub.com/web-development/clojure-reactive-programming?utm_source=github&utm_medium=repository&utm_campaign=9781783986668)
 
 # Software specifications
-1) Chapter number: All	   			
-   Free/Proprietary: Free 	             	                          
+1) Chapter number: All
+   Free/Proprietary: Free
    Software required (With version): Java 7+
-   Download links to the software: (http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)	
+   Download links to the software: (http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
    Hardware specifications: RAM: 128 MB,
                             Disk space: 124 MB for JRE, 2 MB for Java Update
                             Processor: Minimum Pentium 2 266 MHz processor
    OS required: Any OS that supports java
 
-2) Chapter Number: All	
+2) Chapter Number: All
    Free/Proprietey: Free
    Software required (With version): Leiningen 2.5.x
    Download links to the software: (http://leiningen.org/#install)
