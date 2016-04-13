@@ -3,7 +3,7 @@ Clojure-Reactive-Programming-Code-Files
 
 This repository contains the code files of [Clojure Reactive Programming] (https://www.packtpub.com/web-development/clojure-reactive-programming?utm_source=github&utm_medium=repository&utm_campaign=9781783986668)
 
-# Software specifications
+## Software specifications
 1) Chapter number: All
    Free/Proprietary: Free
    Software required (With version): Java 7+
